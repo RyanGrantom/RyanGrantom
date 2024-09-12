@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanGrantom
-- 👀 I’m interested in ... Powershell, C#, Python, Full Stack Js, 
-- 🌱 I’m currently learning ... Javascript, C#, Powershell
+- 👀 I’m interested in ... Everything.
+- 🌱 I’m currently learning ... Java, ML Algorithms, Swift
 - 💞️ I’m looking to collaborate on ... Machine Learning, WebApp Building, Automation
 - 📫 How to reach me ... grantom.ryan@gmail.com
 
